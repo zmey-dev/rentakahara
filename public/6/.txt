@@ -1,0 +1,2 @@
+title: Recipe Hub & Meal Planner & Shopping List Creator
+description: ThermoHub is the ultimate Thermomix (and thermal cooker) resource for meals plans, shopping lists and the best recipes Features: - 3 Membership Types - Interactive Meal Planner - add your own Custom Recipes - Shopping List Creator - save Shopping List as PDF for offline access

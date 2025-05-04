@@ -1,0 +1,3 @@
+title: Online Fashion Store
+description: The online shop specialized in the production of jackets, coats, trousers, clothes and sportswear for men, born from the creative inspiration of Luciano Acquaviva.
+technologies: ["Laravel", "React", "Inertia.js", "Tailwind CSS", "MySQL"]

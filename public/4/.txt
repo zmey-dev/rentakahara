@@ -1,0 +1,2 @@
+title: e-Commerce Store (WordPress)
+description: Akin Home is a travel-inspired e-Commerce store offering home decoration goods. The appearance of the website depends on the collection of goods chosen by the user.

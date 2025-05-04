@@ -1,0 +1,3 @@
+title: Social Media Platform
+description: MultiMuse is a state of the art social media platform built for aspiring creators, established creators, and devoted supporters. The first free social media platform where users can make and share the progress of their projects. The platform allows to easily create, track, and manage projects. Invite collaborators, plan events, assign tasks, add notes & share files within each stage of the project. Upload photos or add YouTube videos. Projects grow and engage audiences before they’re even completed.
+technologies: ["Laravel", "React", "Inertia.js", "Tailwind CSS", "MySQL"]
