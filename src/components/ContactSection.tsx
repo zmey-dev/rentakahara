@@ -122,7 +122,7 @@ const ContactSection = () => {
                       <br />
                       Pridniprianske, Poltavska Oblast
                       <br />
-                      Ukraine, 39282
+                      Japan, 39282
                     </p>
                   </div>
                 </div>

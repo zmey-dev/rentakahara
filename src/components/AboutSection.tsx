@@ -41,7 +41,7 @@ const AboutSection = () => {
             <div className="space-y-4">
               <div className="flex gap-3 items-center">
                 <Globe className="text-primary h-5 w-5" />
-                <span>Based in Pridniprianske, Poltavska Oblast, Ukraine</span>
+                <span>Based in Tokyu, Japan</span>
               </div>
               <div className="flex gap-3 items-center">
                 <BookOpen className="text-primary h-5 w-5" />
