@@ -33,7 +33,7 @@ const Navbar = () => {
       <div className="container mx-auto px-6 flex items-center justify-between">
         <a href="#" className="text-xl font-display font-medium">
           <span className="font-display text-white text-xl">
-            Ren Takahara
+            Ken Sato
           </span>
         </a>
 

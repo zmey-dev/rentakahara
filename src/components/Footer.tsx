@@ -16,7 +16,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-10">
           <div className="md:col-span-2">
             <span className="flex items-center mb-4 block gap-2 font-display text-white text-xl">
-              Ren Takahara
+              Ken Sato
             </span>
             <p className="text-foreground/70 mb-6 max-w-md">
               Experienced Full Stack Developer with 8+ years of expertise in
@@ -70,7 +70,7 @@ const Footer = () => {
 
         <div className="border-t border-white/10 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-foreground/60 mb-4 md:mb-0">
-            © {new Date().getFullYear()} | Ren Takahara, Tokyu, Japan
+            © {new Date().getFullYear()} | Ken Sato, Tokyu, Japan
           </p>
 
           <div className="flex gap-6">
